@@ -1,5 +1,5 @@
 # Proyecto_Personal_004FQ
-**Deploy de un sistema de recomendación con IBM - Watson**
+**Deploy de un sistema de recomendación con IBM - Watson Machine Learning APIClient**
 
 # **Fuentes y Datos:**
 
