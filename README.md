@@ -9,7 +9,7 @@
 
 1. **Carga de API Watson**: *WatsonMachineLearningAPICliente*
 2. **Creación de Credenciales**
-3. **Cliente**
+3. **Cliente:** se crea una variable para guardar el objeto cliente con las credenciales necesarias y otra que guarda las propiedades del modelo, así como mi autoría.
 4. **Entrenamiento:** se crea un **pipeline** para el entrenamiento del modelo utilizando como vectorizador **TfidfVectorizer**
 5. **Subir el modelo:** utilizo client.repository.store_model
 6. **Carga**
